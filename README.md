@@ -1,2 +1,2 @@
 # 6426Week3
- Linear and Recursive Searches, C#
+ Linear and Recursive Searches
